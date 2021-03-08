@@ -1,0 +1,46 @@
+.nine { grid-area: nine; 
+  background-color: rgb(126, 170, 85);
+  color: white;
+  font-size: 30px;
+  border-radius:10px; }
+
+.equals { grid-area: equals; 
+  background-color: rgb(87, 121, 173);
+  color: white;
+  font-size: 30px;
+  border-radius:10px;}
+
+.add { grid-area: add; 
+  background-color: rgb(238, 241, 62);
+  color: black;
+  font-size: 30px;
+  border-radius:10px;}
+
+.subtract { grid-area: subtract; 
+  background-color: rgb(238, 241, 62);
+  color: black;
+  font-size: 30px;
+  border-radius:10px;}
+
+.multiply { grid-area: multiply; 
+  background-color: rgb(238, 241, 62);
+  color: black;
+  border-radius:10px;}
+
+.divide { grid-area: divide; 
+  background-color: rgb(238, 241, 62);
+  color: black;
+  font-size: 30px;
+  border-radius:10px; }
+
+.decimal { grid-area: decimal; 
+  background-color: rgb(163, 223, 228);
+  color: black;
+  font-size: 30px;
+  border-radius:10px;}
+
+.clear { grid-area: clear;background-color: rgb(231, 9, 9);
+  color: black;
+  font-size: 30px;
+  border-radius:10px; }
+.display { grid-area: display; }
